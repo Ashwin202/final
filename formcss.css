@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.9));
+}
+.main-form {
+    color: #fff;
+    width: 100%;
+    margin: auto;
+} 
+.navbar-toggler{
+    outline: black !important;
+    background-color: #fff;
+    margin-right: 10px;
+    font-weight: 600;
+}
+.invalid-feedback
+{
+    color: #fff;
+}
+small{
+    color: #fff;
+}
+#nav-bar{
+  position: sticky;
+  top: 0px;
+  z-index: 10;
+  width: 100%;
+}
